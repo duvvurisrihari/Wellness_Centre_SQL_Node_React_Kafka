@@ -24,7 +24,7 @@ SQL: MySQL, MS SQL,
 
 ## Architecture Diagram
 
-<img width="900" alt="architecture" src="">
+<img width="900" alt="architecture" src="Pictures of website/component diagram.jpg">
 
 ## Hill Statement
  **Who** : A gym user or a staffing member 
