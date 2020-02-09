@@ -38,7 +38,11 @@ SQL: MySQL, MS SQL,
 
 ## Contributors
 D V Sai Sri Hari
+
 C Vamsi
+
 Sudhanshu Shekar
+
 Arushi bhatla
+
 Shubam
