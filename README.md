@@ -3,7 +3,7 @@ An application to support a chain of gyms which has multiple branches in differe
 
 ## Architecture Diagram
 
-<img width="400" alt="architecture" src=Pictures of website/Home Login Page.png">
+<img width="400" alt="architecture" src="Pictures of website/Home Login Page.png">
 
 ## Abstract
 
@@ -24,7 +24,7 @@ SQL: MySQL, MS SQL,
 
 ## Architecture Diagram
 
-<img width="900" alt="architecture" src=">
+<img width="900" alt="architecture" src="">
 
 ## Hill Statement
  **Who** : A gym user or a staffing member 
