@@ -1,6 +1,8 @@
 # Wellness Center/ Gym Database
 An application to support a chain of gyms which has multiple branches in different locations. Each branch has dedicated manager, trainers and desk assistant. Clients can enroll in one or more  plans provided by the gym in their area of choice.
 
+<img width="400" alt="architecture" src=Pictures of website/Home Login Page.png">
+
 ## Abstract
 
 Purpose of this database will be to maintain all the information/data of chain of  gyms  and can be used for automating the management of the employees and infrastructure of such establishment.
