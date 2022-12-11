@@ -15,7 +15,7 @@
     "client-sessions": "^0.8.0",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "express-sessions": "^1.0.6",
     "material-ui": "^0.20.2",
